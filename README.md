@@ -1,2 +1,4 @@
-# download-flick
-Download images to link collection in Flickr 
+# download image flickr
+Download images to link collection in Flickr
+
+
